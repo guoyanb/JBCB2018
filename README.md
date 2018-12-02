@@ -38,9 +38,9 @@ Finally, Download data and put them in ./data folder.
 
 
 #4 Referable:
-
+<p> <a 
     1 https://github.com/icemansina/IJCAI2016
-    2 https://github.com/wentaozhu/protein-cascade-cnn-lstm
-    3 https://keras.io/
-    4 https://www.tensorflow.org/
-Please cite our paper if you find this code and paper useful.
+    2 https://github.com/wentaozhu/protein-cascade-cnn-lstm</a>
+ <br>
+
+
