@@ -29,18 +29,13 @@ Finally, Download data and put them in ./data folder.
       conda install keras
       
       conda install tensorflow-gpu
-  
-  
+    
   The version number of keras is 1.2
   The version number of tensorflow-gpu is 0.12
   
-  
-
-
 #4 Referable:
-<p> <a 
+
     1 https://github.com/icemansina/IJCAI2016
-    2 https://github.com/wentaozhu/protein-cascade-cnn-lstm</a>
- <br>
+    2 https://github.com/wentaozhu/protein-cascade-cnn-lstm
 
 
