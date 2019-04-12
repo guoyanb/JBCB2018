@@ -36,4 +36,5 @@ Finally, Download data and put them in ./data folder.
 
 ### Citation：
 Please cite the following paper for using these codes:
-<a href="https://www.worldscientific.com/doi/10.1142/S021972001850021X">Protein secondary structure prediction improved by recurrent neural networks integrated with 2-dimensional convolutional neural networks</a>. Journal of Bioinformatics and Computational Biology.
+
+<a href="https://www.worldscientific.com/doi/10.1142/S021972001850021X">Protein secondary structure prediction improved by recurrent neural networks integrated with 2-dimensional convolutional neural networks</a>. Journal of Bioinformatics and Computational Biology Vol. 16, No. 05, 1850021 (2018).
