@@ -1,6 +1,6 @@
 # JBCB2018
 #1 JBCB2018 
- <p> <a href="https://www.worldscientific.com/doi/10.1142/S021972001850021X">Protein secondary structure prediction improved by recurrent neural networks integrated with 2-dimensional convolutional neural networks</a>. Journal of Bioinformatics and Computational Biology.>
+ <p> <a href="https://www.worldscientific.com/doi/10.1142/S021972001850021X">Protein secondary structure prediction improved by recurrent neural networks integrated with 2-dimensional convolutional neural networks</a>. Journal of Bioinformatics and Computational Biology.
  <br>
 The matrices of protein sequence features comprises the amino acid dimension (time-step dimension) and the feature
 vector dimension. Common approaches to predict 8-state secondary structure only concentrate on the amino acid dimension. The
@@ -34,4 +34,6 @@ Finally, Download data and put them in ./data folder.
     1 https://github.com/icemansina/IJCAI2016
     2 https://github.com/wentaozhu/protein-cascade-cnn-lstm
 
-
+### Citation：
+Please cite the following paper for using these codes:
+<a href="https://www.worldscientific.com/doi/10.1142/S021972001850021X">Protein secondary structure prediction improved by recurrent neural networks integrated with 2-dimensional convolutional neural networks</a>. Journal of Bioinformatics and Computational Biology.
