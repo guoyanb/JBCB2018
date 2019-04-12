@@ -29,7 +29,7 @@ Finally, Download data and put them in ./data folder.
   The version of keras is 1.2
   The version of tensorflow-gpu is 0.12
   
-#4 Referable:
+#4 Reference:
 
     1 https://github.com/icemansina/IJCAI2016
     2 https://github.com/wentaozhu/protein-cascade-cnn-lstm
