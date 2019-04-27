@@ -18,6 +18,7 @@ def load_cul6133()
     pssm=cull[:, :, 35:56]#profile feature
     
     # shuffle data
+    #np.random.seed(2018)
     num_seqs, seqlen, feature_dim = np.shape(cull)
     num_classes = labels.shape[2]
     seq_index = np.arange(0, num_seqs)# length 6133
@@ -81,6 +82,7 @@ def load_cul6133_filted()
     # print 'profile feature',datapssm[1,:3,:] 
     labels = data[:, :, 22:30]    # secondary struture label , 8-d
     # shuffle data
+    #np.random.seed(2018)
     num_seqs, seqlen, feature_dim = np.shape(data)
     num_classes = labels.shape[2]
     seq_index = np.arange(0, num_seqs)# 
