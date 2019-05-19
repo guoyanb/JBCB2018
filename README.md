@@ -5,7 +5,7 @@
 The matrices of protein sequence features comprises the amino acid dimension (time-step dimension) and the feature
 vector dimension. Common approaches to predict 8-state secondary structure only concentrate on the amino acid dimension. The
 paper propose a hybrid deep learning framework, recurrent neural networks (RNNs) integrated with 2-dimensional (2D)
-convolutional neural networks (CNNs), for protein secondary structure prediction.The evaluation metric should be weighted accuracy. You can copy the function and paste it into the keras metric.py, which can be downloaded in 'https://github.com/wentaozhu/proteincascade-cnn-lstm'. Then compile keras, install. 
+convolutional neural networks (CNNs), for protein secondary structure prediction.The evaluation metric should be weighted accuracy. You can copy the function and paste it into the keras metric.py, which can be downloaded in 'https://github.com/wentaozhu/protein-cascade-cnn-lstm'. Then compile keras, install. 
 
 
 #2 Dataset:
